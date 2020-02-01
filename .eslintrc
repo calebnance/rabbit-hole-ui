@@ -9,11 +9,11 @@
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
   },
   "globals": {
-    "__DEV__": 0,
-    "describe": 0,
-    "expect": 0,
-    "fetch": 0,
-    "it": 0,
-    "jest": 0
+    "__DEV__": 'readonly',
+    "describe": 'readonly',
+    "expect": 'readonly',
+    "fetch": 'readonly',
+    "it": 'readonly',
+    "jest": 'readonly'
   }
 }
