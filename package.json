@@ -4,7 +4,6 @@
   "description": "react & react-native ui",
   "main": "src/index.js",
   "scripts": {
-    "format": "prettier-eslint --write \"src/**/*.{js,jsx}\"",
     "patch": "npm version patch -m 'version patch to %s'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
