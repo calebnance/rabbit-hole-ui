@@ -1,0 +1,7 @@
+# directories
+node_modules
+tmp
+
+# logs
+*.log
+npm-debug.log
