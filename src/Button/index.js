@@ -1,7 +1,7 @@
-import React from "react";
-import PropTypes from "prop-types";
-import { Text, TouchableOpacity } from "react-native";
-import { gStyle } from "../constants";
+import React from 'react';
+import PropTypes from 'prop-types';
+import { Text, TouchableOpacity } from 'react-native';
+import { gStyle } from '../constants';
 
 const Button = ({ accessible, onPress, style, text, textStyle }) => (
   <TouchableOpacity

@@ -1,10 +1,10 @@
 // colors
 // /////////////////////////////////////////////////////////////////////////////
 
-const primary = "#402f87";
+const primary = '#402f87';
 
 export default {
-  white: "#ffffff",
+  white: '#ffffff',
 
   primary
 };

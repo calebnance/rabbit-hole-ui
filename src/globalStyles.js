@@ -1,4 +1,4 @@
-import colors from "./colors";
+import colors from './colors';
 
 // utility styles
 // /////////////////////////////////////////////////////////////////////////////
@@ -8,13 +8,13 @@ export default {
   // button
   // ///////////////////////////////////////////////////////////////////////////
   btn: {
-    alignItems: "center",
+    alignItems: 'center',
     backgroundColor: colors.primary,
     borderColor: colors.primary,
     borderWidth: 1,
     borderRadius: 4,
     height: 48,
-    justifyContent: "center",
+    justifyContent: 'center',
     marginBottom: 16,
     paddingHorizontal: 24,
     paddingVertical: 8
@@ -22,6 +22,6 @@ export default {
   btnText: {
     color: colors.white,
     fontSize: 14,
-    textAlign: "center"
+    textAlign: 'center'
   }
 };
