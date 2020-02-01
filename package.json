@@ -1,6 +1,6 @@
 {
   "name": "rabbit-hole-ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "react & react-native ui",
   "main": "src/index.js",
   "scripts": {
