@@ -4,6 +4,7 @@
   "description": "react & react-native ui",
   "main": "src/index.js",
   "scripts": {
+    "format": "prettier --write '{src,__{tests,mocks}__}/**/*.js'",
     "patch": "npm version patch -m 'version patch to %s'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
